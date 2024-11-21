@@ -1,4 +1,4 @@
-const apiUrl = "https://sai-univ-frontend-abd71996107f.herokuapp.com/"; // Update this if your backend URL is different
+const apiUrl = "https://sai-univ-backend-e2b4bd0c7a30.herokuapp.com"; // Update this if your backend URL is different
 let token = '';
 
 document.getElementById('login-form').addEventListener('submit', async (e) => {
