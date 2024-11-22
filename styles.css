@@ -1,6 +1,9 @@
 body {
+    background-image: url('https://nfsu.mha.gov.in/static/media/DSC_5578.458af986.jpg'); 
+    background-size: cover;       
+    background-position: center;  
+    background-repeat: no-repeat; 
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
     padding: 20px;
 }
 
